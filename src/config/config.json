@@ -1,0 +1,23 @@
+{
+    "development": {
+        "uri": "mongodb+srv://root:123@cluster0.wgyusjf.mongodb.net/pethome?retryWrites=true&w=majority&appName=Cluster0",
+        "options": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        }
+    },
+    "test": {
+        "uri": "mongodb+srv://root:123@cluster0.wgyusjf.mongodb.net/pethome?retryWrites=true&w=majority&appName=Cluster0",
+        "options": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        }
+    },
+    "production": {
+        "uri": "mongodb+srv://root:123@cluster0.wgyusjf.mongodb.net/pethome?retryWrites=true&w=majority&appName=Cluster0",
+        "options": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        }
+    }
+}
